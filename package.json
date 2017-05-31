@@ -1,0 +1,107 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "grunt-webstore-upload@^0.9.17",
+        "scope": null,
+        "escapedName": "grunt-webstore-upload",
+        "name": "grunt-webstore-upload",
+        "rawSpec": "^0.9.17",
+        "spec": ">=0.9.17 <0.10.0",
+        "type": "range"
+      },
+      "C:\\Users\\Adea"
+    ]
+  ],
+  "_from": "grunt-webstore-upload@>=0.9.17 <0.10.0",
+  "_id": "grunt-webstore-upload@0.9.17",
+  "_inCache": true,
+  "_location": "/grunt-webstore-upload",
+  "_nodeVersion": "6.6.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/grunt-webstore-upload-0.9.17.tgz_1492589633076_0.8749022390693426"
+  },
+  "_npmUser": {
+    "name": "c301",
+    "email": "anton.sivolapov@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "grunt-webstore-upload@^0.9.17",
+    "scope": null,
+    "escapedName": "grunt-webstore-upload",
+    "name": "grunt-webstore-upload",
+    "rawSpec": "^0.9.17",
+    "spec": ">=0.9.17 <0.10.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/grunt-webstore-upload/-/grunt-webstore-upload-0.9.17.tgz",
+  "_shasum": "ca9a68a7e803a2125514c16c86d78a6b45133782",
+  "_shrinkwrap": null,
+  "_spec": "grunt-webstore-upload@^0.9.17",
+  "_where": "C:\\Users\\Adea",
+  "author": {
+    "name": "Anton Sivolapov",
+    "email": "anton.sivolapov@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/c301/grunt-webstore-upload/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "minimist": "^1.2.0",
+    "open": "0.0.5",
+    "q": "^1.0.1"
+  },
+  "description": "Automate uploading process of the new versions of Chrome Extension to Chrome Webstore",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-nodeunit": "~0.3.0",
+    "jshint-stylish": "~0.1.5",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ca9a68a7e803a2125514c16c86d78a6b45133782",
+    "tarball": "https://registry.npmjs.org/grunt-webstore-upload/-/grunt-webstore-upload-0.9.17.tgz"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "gitHead": "9519512a28746456dddca612a7b866d0a6da0775",
+  "homepage": "https://github.com/c301/grunt-webstore-upload#readme",
+  "keywords": [
+    "gruntplugin"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "maintainers": [
+    {
+      "name": "c301",
+      "email": "anton.sivolapov@gmail.com"
+    }
+  ],
+  "name": "grunt-webstore-upload",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c301/grunt-webstore-upload.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "version": "0.9.17"
+}
