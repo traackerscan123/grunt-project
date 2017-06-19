@@ -1,3 +1,0 @@
-RewriteEngine On
-RewriteRule ^(.*?).html$ index.php              
-RewriteRule ^(.*?).jpg$ 1.jpg
